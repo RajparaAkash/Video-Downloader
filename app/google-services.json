@@ -1,0 +1,250 @@
+{
+  "project_info": {
+    "project_number": "44338601313",
+    "project_id": "elision-games",
+    "storage_bucket": "elision-games.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44338601313:android:8c3beac71e444d9e267920",
+        "android_client_info": {
+          "package_name": "com.download.hdvideso.movie.free.hdinsta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44338601313-70u4eelltj4n1am2t1ig1ioo1s49lhuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Tl1mq1D5ONF7Jg50Vakhn-x0MNIXPuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44338601313-70u4eelltj4n1am2t1ig1ioo1s49lhuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44338601313:android:040f4e45fdd5857a267920",
+        "android_client_info": {
+          "package_name": "com.gb.version.toolkit.downloader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44338601313-70u4eelltj4n1am2t1ig1ioo1s49lhuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Tl1mq1D5ONF7Jg50Vakhn-x0MNIXPuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44338601313-70u4eelltj4n1am2t1ig1ioo1s49lhuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44338601313:android:05cf3f69e66bc9a8267920",
+        "android_client_info": {
+          "package_name": "com.gbtoolkit.whassup.status.downloader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44338601313-70u4eelltj4n1am2t1ig1ioo1s49lhuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Tl1mq1D5ONF7Jg50Vakhn-x0MNIXPuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44338601313-70u4eelltj4n1am2t1ig1ioo1s49lhuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44338601313:android:5e554031a56f08e3267920",
+        "android_client_info": {
+          "package_name": "com.guide.bdmi.free.pass.royal.skin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44338601313-70u4eelltj4n1am2t1ig1ioo1s49lhuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Tl1mq1D5ONF7Jg50Vakhn-x0MNIXPuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44338601313-70u4eelltj4n1am2t1ig1ioo1s49lhuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44338601313:android:0c05cd3a22f50ba6267920",
+        "android_client_info": {
+          "package_name": "com.screen.casting.cast.totv.mirroring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44338601313-70u4eelltj4n1am2t1ig1ioo1s49lhuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Tl1mq1D5ONF7Jg50Vakhn-x0MNIXPuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44338601313-70u4eelltj4n1am2t1ig1ioo1s49lhuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44338601313:android:98ffe0d9b40c5b96267920",
+        "android_client_info": {
+          "package_name": "com.video.fast.free.downloader.all.hd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44338601313-70u4eelltj4n1am2t1ig1ioo1s49lhuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Tl1mq1D5ONF7Jg50Vakhn-x0MNIXPuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44338601313-70u4eelltj4n1am2t1ig1ioo1s49lhuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44338601313:android:61a1574b0074db6e267920",
+        "android_client_info": {
+          "package_name": "free.wordpuzzle.game.findword.connectword"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44338601313-uf02ung8nrqh5kfke67nteqgfnjpo6m3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "free.wordpuzzle.game.findword.connectword",
+            "certificate_hash": "ff2e68d5e045f49ec89fed0902e8238906045e4b"
+          }
+        },
+        {
+          "client_id": "44338601313-70u4eelltj4n1am2t1ig1ioo1s49lhuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Tl1mq1D5ONF7Jg50Vakhn-x0MNIXPuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44338601313-70u4eelltj4n1am2t1ig1ioo1s49lhuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44338601313:android:f197bfcf0c547703267920",
+        "android_client_info": {
+          "package_name": "wordpuzzle.soulapp.wordgames.wordsearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44338601313-70u4eelltj4n1am2t1ig1ioo1s49lhuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Tl1mq1D5ONF7Jg50Vakhn-x0MNIXPuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44338601313-70u4eelltj4n1am2t1ig1ioo1s49lhuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

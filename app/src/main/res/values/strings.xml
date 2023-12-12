@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Video Downloader</string>
+
+    <string name="google_api_client_id">eQeHshCZA0msBVOcnlBQhIF0NA</string>
+    <string name="firebase_api_client_id">5NipbKTsMoZIYQzPuESZ/bcg1XGA==</string>
+    <string name="secret_api_client_id">°°°·.°·..·°¯°·._.· ᵉ𝐥ι𝓢ᶤＯη ｉήｆỖ𝓽ᵉ¢卄 ·._.·°¯°·.·° .·°°°</string>
+
+    <string name="save_error">Couldn\'t save some files</string>
+    <string name="save_success">All Status Are Saved Successfully</string>
+    <string name="yes">Yes</string>
+    <string name="delete_alert">Are you sure , You want to delete selected files ?</string>
+    <string name="no">No</string>
+    <string name="delete_error">Couldn\'t delete some files</string>
+    <string name="delete_success">Deleted successfully</string>
+
+    <string name="str_close">Close</string>
+    <string name="str_cancel">Cancel</string>
+    <string name="str_logout">Logout</string>
+    <string name="str_download">Download</string>
+    <string name="str_logoutSuccess">Logout Successfully</string>
+    <string name="str_process">Processing</string>
+    <string name="str_installnow">Install Now</string>
+    <string name="str_install">Install</string>
+    <string name="str_install_and_download">Install App And Download Video our app</string>
+    <string name="str_fb_logout">Facebook Logout</string>
+    <string name="str_insta_logout">Instagram Logout</string>
+    <string name="str_msg_download_media">Don\'t Want to Download Media from Private Account?</string>
+    <string name="str_status_download">Status Download</string>
+    <string name="str_downloading">Downloading</string>
+    <string name="str_session_out">Session Time Out</string>
+    <string name="str_msg_login_again_fb">Please Login again to download facebook stories</string>
+    <string name="str_msg_login_again_insta">Please Login again to download instagram stories</string>
+    <string name="str_msg_something_wrong">Something went wrong</string>
+    <string name="str_msg_url_not_found">Video Url Not Found!!</string>
+    <string name="str_msg_vid_not_found">No Video Found</string>
+    <string name="str_msg_invalid_vid_url">Invalid Video URL</string>
+    <string name="str_msg_try_agin">Video Can\'t be downloaded! Please Try Again</string>
+    <string name="str_msg_img_try_agin">Image Can\'t downloaded! Please Try Again</string>
+    <string name="str_msg_succ_vid_down">Video Download Success</string>
+    <string name="str_msg_succ_img_down">Image Download Success</string>
+
+</resources>

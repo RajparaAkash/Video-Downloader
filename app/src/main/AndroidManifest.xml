@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <uses-permission
+        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        android:maxSdkVersion="32" />
+    <uses-permission
+        android:name="android.permission.READ_EXTERNAL_STORAGE"
+        android:maxSdkVersion="32" />
+    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+    <uses-permission android:name="android.permission.READ_MEDIA_VIDEO" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+
+    <queries>
+        <package android:name="com.whatsapp" />
+        <package android:name="com.whatsapp.w4b" />
+        <package android:name="com.facebook.katana" />
+        <package android:name="com.instagram.android" />
+        <package android:name="com.vimeo.android.videoapp" />
+        <package android:name="com.pinterest" />
+        <package android:name="com.google.android.youtube" />
+        <package android:name="com.linkedin.android" />
+        <package android:name="com.roposo.android" />
+        <package android:name="in.mohalla.sharechat" />
+        <package android:name="video.like" />
+        <package android:name="com.ted.android" />
+        <package android:name="com.twitter.android" />
+    </queries>
+
+    <application
+        android:name=".Utils.Application"
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@drawable/logo_squre"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:requestLegacyExternalStorage="true"
+        android:roundIcon="@drawable/logo_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true"
+        tools:targetApi="31">
+
+        <activity
+            android:name=".Activity.SplashScreenActivity"
+            android:exported="true"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Activity.ExtraScreen1Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.ExtraScreen2Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.ExtraScreen3Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.ExtraScreen4Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.StartActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.VideoPlayerWaActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.DashBoardActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".Activity.VideoPlayerActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.WaStatusPreviewActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.InstaUserStoryActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.InstagramStoryActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.LoginWithInstagramActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.FbInstaStoryViewerActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.FbUserStoryActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.FaceBookStoryActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.LoginWithFaceBookActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.HistoryActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.ImageShowActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.GallaryActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.HowToDownloadActivity"
+            android:screenOrientation="portrait" />
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="${applicationId}.provider"
+            android:enabled="true"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_paths" />
+        </provider>
+
+        <service
+            android:name=".MyFirebaseMessagService"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-3940256099942544~3347511713" />
+
+    </application>
+
+</manifest>
